@@ -4,4 +4,5 @@ Tere are also 2 **junit** test cacshes and 1 **httpUnit** test case.
 
 ## How to run test cases ##
 To run junit tests, simple run **mvn test**
+
 To run httpUnit test, **mvn -Dtest=HttpUnitTestSkip test**
